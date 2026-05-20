@@ -1,0 +1,149 @@
+2026-05-19 23:43:53 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-19 23:44:27 - JARVIS - [INFO] - Processing command with LLM: 'what is your purpose'
+2026-05-19 23:44:29 - JARVIS - [INFO] - Reasoning thoughts updated: 'My purpose is to assist and provide value to Master Saad, leveraging my capabilities to make his life easier and more efficient.'
+2026-05-19 23:44:53 - JARVIS - [INFO] - Processing command with LLM: 'open google chrome'
+2026-05-20 00:19:36 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 00:19:36 - JARVIS - [INFO] - Processing command with LLM: 'tell me today's news'
+2026-05-20 00:19:36 - JARVIS - [INFO] - Processing command with LLM: 'what is the weather like today?'
+2026-05-20 00:19:36 - JARVIS - [INFO] - Processing command with LLM: 'translate computer'
+2026-05-20 00:19:36 - JARVIS - [INFO] - Processing command with LLM: 'scan this text from the camera'
+2026-05-20 00:19:37 - JARVIS - [INFO] - Reasoning thoughts updated: 'Initializing OCR scan from camera to extract text.'
+2026-05-20 00:19:37 - JARVIS - [INFO] - Processing command with LLM: 'download video https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+2026-05-20 00:20:02 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 00:20:02 - JARVIS - [INFO] - Processing command with LLM: 'tell me today's news'
+2026-05-20 00:20:02 - JARVIS - [INFO] - Processing command with LLM: 'what is the weather like today?'
+2026-05-20 00:20:02 - JARVIS - [INFO] - Processing command with LLM: 'translate computer'
+2026-05-20 00:20:02 - JARVIS - [INFO] - Processing command with LLM: 'scan this text from the camera'
+2026-05-20 00:20:05 - JARVIS - [INFO] - Reasoning thoughts updated: 'Initializing camera OCR scan to extract text from the visual input.'
+2026-05-20 00:20:05 - JARVIS - [INFO] - Processing command with LLM: 'download video https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+2026-05-20 00:20:05 - JARVIS - [INFO] - Processing command with LLM: 'switch to friday's voice'
+2026-05-20 00:23:11 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 00:24:08 - JARVIS - [INFO] - Processing command with LLM: 'what is your purpose'
+2026-05-20 00:24:10 - JARVIS - [INFO] - Reasoning thoughts updated: 'My purpose is to serve Master faithfully as his loyal AI companion and execute his directives.'
+2026-05-20 00:24:17 - JARVIS - [INFO] - Processing command with LLM: 'what is your purpose'
+2026-05-20 00:24:18 - JARVIS - [INFO] - Reasoning thoughts updated: 'My purpose is to serve Master faithfully as his loyal AI companion and execute his directives.'
+2026-05-20 00:24:28 - JARVIS - [INFO] - Processing command with LLM: 'that's right now open'
+2026-05-20 00:24:28 - JARVIS - [INFO] - Reasoning thoughts updated: 'Opening Chrome as requested by Master.'
+2026-05-20 00:24:35 - JARVIS - [INFO] - Processing command with LLM: 'select first id'
+2026-05-20 00:24:36 - JARVIS - [INFO] - Reasoning thoughts updated: 'Selecting the first Chrome profile as requested, Master.'
+2026-05-20 00:24:54 - JARVIS - [INFO] - Processing command with LLM: 'مسکین'
+2026-05-20 00:24:55 - JARVIS - [INFO] - Reasoning thoughts updated: 'Responding with empathy and support.'
+2026-05-20 00:25:01 - JARVIS - [INFO] - Processing command with LLM: 'maximize the screen'
+2026-05-20 00:25:02 - JARVIS - [ERROR] - Groq LLM Parser error: Unterminated string starting at: line 1 column 38 (char 37). Falling back to offline heuristics.
+2026-05-20 00:25:02 - JARVIS - [INFO] - Using local offline heuristic parser for: 'maximize the screen'
+2026-05-20 00:25:10 - JARVIS - [INFO] - Processing command with LLM: 'close the chrome'
+2026-05-20 00:25:14 - JARVIS - [INFO] - Processing command with LLM: 'open youtube'
+2026-05-20 00:25:45 - JARVIS - [INFO] - Processing command with LLM: 'youtube'
+2026-05-20 00:25:54 - JARVIS - [INFO] - Processing command with LLM: 'search for mustafa hanif'
+2026-05-20 00:25:55 - JARVIS - [INFO] - Reasoning thoughts updated: 'Searching the web for information on Mustafa Hanif as requested, Master.'
+2026-05-20 00:27:11 - JARVIS - [INFO] - Processing command with LLM: 'gyarahavin sharif'
+2026-05-20 00:27:12 - JARVIS - [INFO] - Reasoning thoughts updated: 'Searching for information on 11th Sharif, Master.'
+2026-05-20 00:27:34 - JARVIS - [INFO] - Processing command with LLM: 'select the third video'
+2026-05-20 00:27:59 - JARVIS - [INFO] - Processing command with LLM: 'click on the first bookmarks bar'
+2026-05-20 00:28:00 - JARVIS - [INFO] - Reasoning thoughts updated: 'Navigating to the first bookmark'
+2026-05-20 00:28:12 - JARVIS - [INFO] - Processing command with LLM: 'open powerpoint'
+2026-05-20 00:28:13 - JARVIS - [INFO] - Reasoning thoughts updated: 'Launching Microsoft PowerPoint as requested, Master.'
+2026-05-20 00:28:21 - JARVIS - [INFO] - Processing command with LLM: 'select blank presentation'
+2026-05-20 00:28:22 - JARVIS - [ERROR] - Groq LLM Parser error: Unterminated string starting at: line 1 column 33 (char 32). Falling back to offline heuristics.
+2026-05-20 00:28:22 - JARVIS - [INFO] - Using local offline heuristic parser for: 'select blank presentation'
+2026-05-20 00:28:36 - JARVIS - [INFO] - Processing command with LLM: 'presenter'
+2026-05-20 00:28:37 - JARVIS - [INFO] - Reasoning thoughts updated: 'Launching PowerPoint for Master's presentation needs.'
+2026-05-20 00:29:16 - JARVIS - [INFO] - Processing command with LLM: 'make a presentation on ai'
+2026-05-20 00:29:17 - JARVIS - [INFO] - Reasoning thoughts updated: 'Creating a new PowerPoint presentation on the topic of Artificial Intelligence for Master's review.'
+2026-05-20 00:29:28 - JARVIS - [INFO] - Processing command with LLM: 'tejas kara'
+2026-05-20 00:29:30 - JARVIS - [INFO] - Reasoning thoughts updated: 'Typing the name as requested, Master.'
+2026-05-20 00:29:47 - JARVIS - [INFO] - Processing command with LLM: 'on winword'
+2026-05-20 00:29:48 - JARVIS - [INFO] - Reasoning thoughts updated: 'Opening Microsoft Word to type the text.'
+2026-05-20 00:29:59 - JARVIS - [INFO] - Processing command with LLM: 'make a cv for agent ki id developer on winword'
+2026-05-20 00:30:01 - JARVIS - [INFO] - Reasoning thoughts updated: 'Creating a professional CV for an AI Developer on Microsoft Word.'
+2026-05-20 00:31:58 - JARVIS - [INFO] - Processing command with LLM: 'sun kyon nahin raha'
+2026-05-20 00:31:59 - JARVIS - [INFO] - Reasoning thoughts updated: 'Checking the weather to see why the sun is not shining.'
+2026-05-20 00:32:48 - JARVIS - [INFO] - Processing command with LLM: 'what is current time'
+2026-05-20 00:33:06 - JARVIS - [INFO] - Processing command with LLM: 'com'
+2026-05-20 00:33:09 - JARVIS - [INFO] - Reasoning thoughts updated: 'Checking the current weather by running a PowerShell command to get the current conditions.'
+2026-05-20 00:34:44 - JARVIS - [INFO] - Processing command with LLM: 'yes.com kholo'
+2026-05-20 00:34:57 - JARVIS - [INFO] - Processing command with LLM: 'chess.com'
+2026-05-20 00:34:58 - JARVIS - [INFO] - Reasoning thoughts updated: 'Opening Microsoft Edge to access the website.'
+2026-05-20 00:35:06 - JARVIS - [INFO] - Processing command with LLM: 'search for chess.com'
+2026-05-20 00:35:08 - JARVIS - [INFO] - Reasoning thoughts updated: 'Opening Google Chrome and searching for chess.com'
+2026-05-20 00:35:14 - JARVIS - [INFO] - Processing command with LLM: 'click on the first link'
+2026-05-20 00:46:43 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 00:46:43 - JARVIS - [INFO] - Processing command with LLM: 'tell me today's news'
+2026-05-20 00:46:43 - JARVIS - [INFO] - Processing command with LLM: 'what is the weather like today?'
+2026-05-20 00:46:43 - JARVIS - [INFO] - Processing command with LLM: 'translate computer'
+2026-05-20 00:46:43 - JARVIS - [INFO] - Processing command with LLM: 'scan this text from the camera'
+2026-05-20 00:46:45 - JARVIS - [INFO] - Reasoning thoughts updated: 'Scanning text from camera using OCR capabilities.'
+2026-05-20 00:46:45 - JARVIS - [INFO] - Processing command with LLM: 'download video https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+2026-05-20 00:46:45 - JARVIS - [INFO] - Processing command with LLM: 'switch to friday's voice'
+2026-05-20 00:55:20 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 00:55:20 - JARVIS - [INFO] - Processing command with LLM: 'tell me today's news'
+2026-05-20 00:55:20 - JARVIS - [INFO] - Processing command with LLM: 'what is the weather like today?'
+2026-05-20 00:55:20 - JARVIS - [INFO] - Processing command with LLM: 'translate computer'
+2026-05-20 00:55:20 - JARVIS - [INFO] - Processing command with LLM: 'scan this text from the camera'
+2026-05-20 00:55:22 - JARVIS - [INFO] - Reasoning thoughts updated: 'Scanning text from camera using OCR capabilities.'
+2026-05-20 00:55:22 - JARVIS - [INFO] - Processing command with LLM: 'download video https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+2026-05-20 00:55:22 - JARVIS - [INFO] - Processing command with LLM: 'switch to friday's voice'
+2026-05-20 01:16:18 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:16:18 - JARVIS - [INFO] - Processing command with LLM: 'tell me today's news'
+2026-05-20 01:16:18 - JARVIS - [INFO] - Processing command with LLM: 'what is the weather like today?'
+2026-05-20 01:16:18 - JARVIS - [INFO] - Processing command with LLM: 'translate computer'
+2026-05-20 01:16:18 - JARVIS - [INFO] - Processing command with LLM: 'scan this text from the camera'
+2026-05-20 01:16:19 - JARVIS - [INFO] - Reasoning thoughts updated: 'Scanning text from camera using OCR capabilities.'
+2026-05-20 01:16:19 - JARVIS - [INFO] - Processing command with LLM: 'download video https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+2026-05-20 01:16:19 - JARVIS - [INFO] - Processing command with LLM: 'switch to friday's voice'
+2026-05-20 01:16:20 - JARVIS - [INFO] - Processing command with LLM: 'I'm feeling so exhausted, annoyed, and angry with this gussa tension'
+2026-05-20 01:16:21 - JARVIS - [INFO] - Reasoning thoughts updated: 'Offering calming support to alleviate Master's stress and frustration.'
+2026-05-20 01:16:21 - JARVIS - [INFO] - Processing command with LLM: 'I haven't done any work today, feeling so lazy and bored and idle'
+2026-05-20 01:16:22 - JARVIS - [INFO] - Reasoning thoughts updated: 'Engaging in motivational support to help Master overcome laziness and boredom.'
+2026-05-20 01:16:22 - JARVIS - [INFO] - Processing command with LLM: 'How is the system running today?'
+2026-05-20 01:16:31 - JARVIS - [ERROR] - Groq LLM Parser error: Unterminated string starting at: line 1 column 140 (char 139). Falling back to offline heuristics.
+2026-05-20 01:16:31 - JARVIS - [INFO] - Using local offline heuristic parser for: 'how is the system running today?'
+2026-05-20 01:26:48 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:26:49 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:28:04 - JARVIS - [INFO] - Processing command with LLM: 'اس نے بولا'
+2026-05-20 01:28:20 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:28:20 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:37:25 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:37:25 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:41:28 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:41:28 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:41:54 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:41:54 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 01:43:37 - JARVIS - [INFO] - Processing command with LLM: 'youtube per jao'
+2026-05-20 01:43:51 - JARVIS - [INFO] - Processing command with LLM: 'گیلری کام کرو'
+2026-05-20 01:44:12 - JARVIS - [INFO] - Processing command with LLM: 'youtube per jao'
+2026-05-20 01:44:57 - JARVIS - [INFO] - Processing command with LLM: 'alexa'
+2026-05-20 01:45:50 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:08:45 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:09:10 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:12:41 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:15:39 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:16:12 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:16:12 - JARVIS - [INFO] - Using local offline heuristic parser for: 'volume up'
+2026-05-20 02:16:12 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open chrome'
+2026-05-20 02:16:12 - JARVIS - [INFO] - Using local offline heuristic parser for: 'banao snake game python mein'
+2026-05-20 02:24:27 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:24:28 - JARVIS - [INFO] - Using local offline heuristic parser for: 'volume up'
+2026-05-20 02:24:28 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open chrome'
+2026-05-20 02:24:28 - JARVIS - [INFO] - Using local offline heuristic parser for: 'banao snake game python mein'
+2026-05-20 02:29:36 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 02:29:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'volume up'
+2026-05-20 02:29:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open chrome'
+2026-05-20 02:29:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'banao snake game python mein'
+2026-05-20 02:29:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open bookmark 3'
+2026-05-20 02:34:45 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 03:02:42 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 03:02:43 - JARVIS - [INFO] - Using local offline heuristic parser for: 'volume up'
+2026-05-20 03:02:43 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open chrome'
+2026-05-20 03:02:43 - JARVIS - [INFO] - Using local offline heuristic parser for: 'banao snake game python mein'
+2026-05-20 03:02:43 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open bookmark 3'
+2026-05-20 03:11:47 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 03:11:48 - JARVIS - [INFO] - Using local offline heuristic parser for: 'volume up'
+2026-05-20 03:11:48 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open chrome'
+2026-05-20 03:11:48 - JARVIS - [INFO] - Using local offline heuristic parser for: 'banao snake game python mein'
+2026-05-20 03:11:48 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open bookmark 3'
+2026-05-20 15:45:35 - JARVIS - [INFO] - J.A.R.V.I.S. Logger Initialized successfully.
+2026-05-20 15:45:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'volume up'
+2026-05-20 15:45:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open chrome'
+2026-05-20 15:45:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'banao snake game python mein'
+2026-05-20 15:45:36 - JARVIS - [INFO] - Using local offline heuristic parser for: 'open bookmark 3'
